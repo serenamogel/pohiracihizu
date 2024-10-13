@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pohiracihizu.pages.dev/sitemap.xml
